@@ -1,0 +1,2 @@
+# WebAssembly
+use Rust
